@@ -1,0 +1,8 @@
+banner_sitedeestudos.png
+comp_facebook.png
+comp_intagram.jpg
+comp_whatsapp.png
+faleconosco.png
+favicon.ico
+listar_arquivos.bat
+Nomes_dos_Arquivos.txt
