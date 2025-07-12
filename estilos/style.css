@@ -126,3 +126,14 @@
             }
         }
 
+        .copy-message {
+    /* ... outros estilos que você já tem ... */
+    opacity: 0; /* Começa invisível */
+    visibility: hidden; /* Garante que não ocupa espaço nem seja interativo */
+    transition: opacity 0.3s ease-in-out; /* Adiciona a transição */
+}
+.copy-message.show { /* Você poderia adicionar e remover esta classe com JS */
+    opacity: 1;
+    visibility: visible;
+}
+
